@@ -1,5 +1,5 @@
 import {View} from 'react-native';
-import {PureComponent} from 'react';
+import React, {PureComponent} from 'react';
 
 class LabelContainer extends PureComponent {
   state = {
